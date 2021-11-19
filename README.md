@@ -1,6 +1,6 @@
-# LGMVIP-Web-Development-Task1
+# LGMVIP-Web-Development-Task2
 
-## About
+## Task
 Creating a web application using create-react-app. The application should have following features:
 1. Create a user card grid layout having navbar showing brand name
 2. Adding a button in the navabr saying "Get Users" which makes an API call to get the users data.
@@ -9,4 +9,5 @@ Creating a web application using create-react-app. The application should have f
 5. Use custom CSS/styled-components/SASS
 
 
-## Live Demo
+## Link To the site 
+https://lgmvip-web-development-task-2.pages.dev/
